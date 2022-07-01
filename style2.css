@@ -1,0 +1,19 @@
+.body{
+    background: grey;
+}
+.profile-area{
+    padding: 80px 0;
+}
+.card{
+    box-shadow: 0 0 30px green ;
+    overflow: hidden;
+    border-radius: 15px;
+    background: #404040;
+    box-shadow: 20px 20px 20px;
+}
+img{
+    height: 200px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    width: 100%;
+}
